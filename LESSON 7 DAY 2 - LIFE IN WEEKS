@@ -1,0 +1,7 @@
+age = input()
+# 🚨 Don't change the code above 👆
+# Write your code below this line 👇
+inte = int(age)
+x = 90*52 - (inte * 52)
+
+print(f"You have {x} weeks left..")
